@@ -59,7 +59,21 @@ I am a tech-savvy professional with a background in hospitality, leveraging exce
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maremoo2&theme=tokyonight-duo&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maremoo2&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### :writing_hand: Blog Posts :
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
+
+
+
+
+
+
 
 
   <img src="https://komarev.com/ghpvc/?username=maremoo2&style=flat-square&color=blue" alt=""/>
