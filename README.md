@@ -17,8 +17,9 @@
 <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjM2aDd0bGdyaGRibWlkcnhyeHhndDBmYWx5emtiZmNhb2Jpb2ZrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" height="400"/>
 </div>
+---
+
 ### :man_technologist: About Me :
-I am a tech-savvy professional with a background in hospitality, leveraging exceptional communication and teamwork skills to excel in media production and IT projects.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: I’m working as a tech-savvy professional with a background in hospitality, leveraging exceptional communication and teamwork skills to excel in media production and IT projects.
 
 - :seedling: Exploring advanced programming and web development.
