@@ -1,13 +1,3 @@
-<div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGsxdHRqODFqOWFwaWI3cWNiczdlYjVmMHd2MGd5eWJ0Ynl3ZGwzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kUTME7ABmhYg5J3psM/giphy.gif" width="300"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://github.com/Maremoo2">
-    <img src="https://img.shields.io/badge/GitHub-Maremoo2-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
 </div>
 <h1 align="center">
   Ahoy
@@ -17,17 +7,22 @@
 <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjM2aDd0bGdyaGRibWlkcnhyeHhndDBmYWx5emtiZmNhb2Jpb2ZrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" height="400"/>
 </div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/Maremoo2">
+    <img src="https://img.shields.io/badge/GitHub-Maremoo2-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+</div>
+
 ---
 
 ### :man_technologist: About Me :
 - :telescope: I’m working as a tech-savvy professional with a background in hospitality, leveraging exceptional communication and teamwork skills to excel in media production and IT projects.
-
 - :seedling: Exploring advanced programming and web development.
-
 - :zap: In my free time, I solve problems on Codewars and engage in production projects from friends and family.
-
 - :rocket: I excel at getting projects, programs, or messages spread to the world through outstanding communication and people skills.
-
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Marius-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
 
 ---
@@ -64,17 +59,5 @@
 
 ---
 
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<img src="https://komarev.com/ghpvc/?username=maremoo2&style=flat-square&color=blue" alt=""/>
 
-
-
-
-
-
-
-
-
-
-  <img src="https://komarev.com/ghpvc/?username=maremoo2&style=flat-square&color=blue" alt=""/>
