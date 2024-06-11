@@ -1,8 +1,4 @@
-</div>
-<h1 align="center">
-  Ahoy
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+
 
 <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjM2aDd0bGdyaGRibWlkcnhyeHhndDBmYWx5emtiZmNhb2Jpb2ZrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" height="400"/>
@@ -15,6 +11,12 @@
     <img src="https://img.shields.io/badge/GitHub-Maremoo2-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
 </div>
+
+</div>
+<h1 align="center">
+  Ahoy
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 ---
 
