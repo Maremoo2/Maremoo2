@@ -29,7 +29,7 @@
 
 ---
 ### :video_game: Play My Rock, Paper, Scissors Game:
-- [Click here to play Rock, Paper, Scissors](https://your-username.github.io/rock-paper-scissors-game/)
+- [Click here to play Rock, Paper, Scissors](https://maremoo2.github.io/rock-paper-scissors-game/)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
