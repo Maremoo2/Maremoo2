@@ -28,6 +28,8 @@
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Marius-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
 
 ---
+### :video_game: Play My Rock, Paper, Scissors Game:
+- [Click here to play Rock, Paper, Scissors](https://your-username.github.io/rock-paper-scissors-game/)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
