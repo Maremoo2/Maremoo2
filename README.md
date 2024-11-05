@@ -30,7 +30,7 @@
 ---
 ### :video_game: Play My Rock, Paper, Scissors Game:
 - [Click here to play Rock, Paper, Scissors](https://maremoo2.github.io/rock-paper-scissors-game/)
-### Festive Project: Spinn the wheel and try to complete these programming tasks!
+### :christmas_tree: Festive Project: Spinn the wheel and try to complete these programming tasks! :christmas_tree:
 - [Spin the Christmas-Themed Wheel](https://maremoo2.github.io/Spinning-Wheel/) and see what task you get!
 ### :hammer_and_wrench: Languages and Tools :
 <div>
