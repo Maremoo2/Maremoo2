@@ -30,7 +30,8 @@
 ---
 ### :video_game: Play My Rock, Paper, Scissors Game:
 - [Click here to play Rock, Paper, Scissors](https://maremoo2.github.io/rock-paper-scissors-game/)
-
+### :christmas_tree: Festive Project:
+- [Spin the Christmas-Themed Wheel](https://maremoo2.github.io/Spinning-Wheel/) and see what task you get!
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
