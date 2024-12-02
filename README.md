@@ -21,10 +21,10 @@
 ---
 
 ### :man_technologist: About Me :
-- :telescope: I’m working as a tech-savvy professional with a background in hospitality, leveraging exceptional communication and teamwork skills to excel in media production and IT projects.
+- :telescope: I’m working as a IT consultant with a background in hospitality,  my strengths are communication and teamwork, while I'm working towards improving my skills with fun IT projects.
 - :seedling: Exploring advanced programming and web development.
 - :zap: In my free time, I solve problems on Codewars and engage in production projects from friends and family.
-- :rocket: I excel at getting projects, programs, or messages spread to the world through outstanding communication and people skills.
+- :rocket: I excel at helping others develop skills in programming and IT through courses and strong educational learning.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Marius-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
 
 ---
